@@ -1,4 +1,6 @@
 /*
+El Patrón Singleton también se conoce como Instancia única, su objetivo es restringir la creación de objetos
+pertenecientes a una clase, de modo que solo se tenga una única instancia de la clase para toda la aplicación,
 garantizando así un punto de acceso global al objeto creado.
  */
 package Singleton;
